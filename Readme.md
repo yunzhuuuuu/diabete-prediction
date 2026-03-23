@@ -1,0 +1,1 @@
+This project explores **Multilayer Perceptron (MLP)** neural network to predict whether an individual has diabetes based on real world health data and how different training sets and model parameters can affect the model behavior. Please use diabetes_prediction.ipynb.
